@@ -17,7 +17,7 @@
 
    Draw a frequency plot for city-wise complaints
 
-  Draw scatter and hexbin plots for complaint concentration across Brooklyn
+   Draw scatter and hexbin plots for complaint concentration across Brooklyn
 
 3. Find major types of complaints:
    Plot a bar graph of count vs. complaint types
